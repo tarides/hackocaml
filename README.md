@@ -4,7 +4,7 @@ OCaml hacking ideas, small and large. All the useful information is on the [proj
 
 ## Adding ideas
 
-Add a new item in the project board. Make sure to fill in the fields associated with estimated effort. It is not meant to be perfect. Ok to over or underestimate. If you are afding an item that is not already an issue, convert the item to an issue on this (https://github.com/tarides/HackaCamel) repo. Add enough details so that someone can get started with just the details in the issue thread.
+Add a new item in the project board. Make sure to fill in the fields associated with estimated effort. It is not meant to be perfect. Ok to over or underestimate. If you are adding an item that is not already an issue, convert the item to an issue on this (https://github.com/tarides/HackaCamel) repo. Add enough details so that someone can get started with just the details in the issue thread.
 
 Interpret the duration labels as follows:
 
