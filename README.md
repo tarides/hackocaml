@@ -21,8 +21,7 @@ Interpret the duration labels as follows:
 
 If you are keen to hack on an idea
 
-1. If you have write access to the repo, assign the corresponding issue to yourself and start hacking.
-  + Otherwise, say so in the issue thread and start hacking. Someone will eventually assign you to the issue.
+1. If you have write access to the repo, assign the corresponding issue to yourself and start hacking. Otherwise, say so in the issue thread and start hacking. Someone will eventually assign you to the issue.
 2. Update the status to "In Progress".
 
 Building open-source software is a collaborative activity, and some larger projects will need more than one person's expertise. So, if you see a project that has been assigned to someone but would like also to participate, say so in the thread. It is very likely that there will be room for collaboration on complex projects.
